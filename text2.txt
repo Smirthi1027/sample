@@ -1,1 +1,2 @@
-Creating a Sample file and learning 
+It is the sample file of text1.txt file
+
